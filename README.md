@@ -2,13 +2,13 @@
 AI-powered phishing email subject detection system using a fine-tuned Qwen2.5 LLM with risk scoring, explainable AI, and a Streamlit web interface.
 ## Features
 
-- ✅ Fine-tuned Qwen2.5-3B-Instruct model for phishing detection
-- ✅ LoRA-based parameter-efficient fine-tuning
-- ✅ Confidence-based risk scoring
-- ✅ Explainable AI outputs
-- ✅ Streamlit web application
-- ✅ Interactive user interface with example subjects
-- ✅ Quantized inference for efficient deployment
+- Fine-tuned Qwen2.5-3B-Instruct model for phishing detection
+- LoRA-based parameter-efficient fine-tuning
+- Confidence-based risk scoring
+- Explainable AI outputs
+- Streamlit web application
+- Interactive user interface with example subjects
+- Quantized inference for efficient deployment
 
 ---
 
